@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlbertV1
 - 👀 I’m interested in building a project
-- 🌱 I’m currently learning PVS Code with PIO for use with a Arduino sketch
-- 💞️ I’m looking to collaborate on how to get the sketch completed.
+- 🌱 I’m currently learning VSCode with PIO for use with an Arduino sketch
+- 💞️ I’m looking to collaborate on how to get the sketch completed as it is a combination of 2.
 - 📫 Reach me via GitHub
 
 <!---
